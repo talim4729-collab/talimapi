@@ -1,20 +1,13 @@
 [
-  {
-    "id": 1,
-    "name": "Rahul",
-    "email": "rahul@gmail.com",
-    "age": 22
-  },
-  {
-    "id": 2,
-    "name": "Amit",
-    "email": "amit@gmail.com",
-    "age": 25
-  },
-  {
-    "id": 3,
-    "name": "Neha",
-    "email": "neha@gmail.com",
-    "age": 21
-  }
+  { "id": 1, "name": "Aarav Sharma", "class": "10th" },
+  { "id": 2, "name": "Isha Verma", "class": "9th" },
+  { "id": 3, "name": "Rohan Mehta", "class": "8th" },
+  { "id": 4, "name": "Diya Singh", "class": "10th" },
+  { "id": 5, "name": "Kabir Yadav", "class": "9th" },
+  { "id": 6, "name": "Ananya Roy", "class": "8th" },
+  { "id": 7, "name": "Vivaan Kapoor", "class": "10th" },
+  { "id": 8, "name": "Ritika Nair", "class": "9th" },
+  { "id": 9, "name": "Aditya Malhotra", "class": "8th" },
+  { "id": 10, "name": "Sana Khan", "class": "10th" }
 ]
+
